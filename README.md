@@ -1,4 +1,4 @@
-# Password-Generator
+Password-Generator
 ## The Contents
 - [Description](#description)
 - [Visuals](#visuals)
@@ -14,7 +14,11 @@ The added elements include:
  standards that are set by the user.
 
 ## Visuals
-![Password generator]()
+![Password generator](./Assets/passwordgenerator-01.png)
+
+![Password generator](./Assets/passwordgenerator-02.png)
+
+![Password generator](./Assets/passwordgenerator-03.png)
 
 ## FInished Product
 [Finished product](https://mchapm17.github.io/password-generator/)
