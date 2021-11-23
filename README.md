@@ -1,4 +1,4 @@
-Password-Generator
+# Password-Generator
 ## The Contents
 - [Description](#description)
 - [Visuals](#visuals)
